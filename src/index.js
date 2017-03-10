@@ -10,6 +10,7 @@ const colorValues = {
     green: '#A8CE93',
   },
   grays: {
+    grayBg: '#2D3940',
     gray0: '#1E272C',
     gray1: '#3C4C55',
     gray2: '#556873',
@@ -26,7 +27,7 @@ export const uiGroups = {
   userActionNeeded: colorValues.colors.red,
   userCurrentState: colorValues.colors.cyan,
   backgroundShade: colorValues.grays.gray0,
-  background: colorValues.grays.gray1,
+  background: colorValues.grays.grayBg,
   foreground: colorValues.grays.gray5,
   ...colorValues.grays,
 }

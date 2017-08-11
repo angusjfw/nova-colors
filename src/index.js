@@ -10,7 +10,8 @@ const colorValues = {
     green: '#A8CE93',
   },
   grays: {
-    grayBg: '#2D3940',
+    grayBg: '#2C2C2C',
+    grayColorColumn: '#798F9C',
     gray0: '#1E272C',
     gray1: '#3C4C55',
     gray2: '#556873',
